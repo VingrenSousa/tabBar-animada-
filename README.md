@@ -1,10 +1,10 @@
-# 📱 Estudo: Tab Bar Animada com React Native
+# Estudo: Tab Bar Animada com React Native
 
 Projeto de estudo para desenvolver uma barra de navegação inferior personalizada (*Custom Tab Bar*) com React Native, TypeScript, Styled Components e React Native Reanimated.
 
 O objetivo é entender como controlar o posicionamento dos elementos, calcular dimensões e criar animações fluidas entre as abas.
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * **React Native** — construção da interface.
 * **TypeScript** — tipagem estática.
@@ -12,7 +12,7 @@ O objetivo é entender como controlar o posicionamento dos elementos, calcular d
 * **Styled Components** — estilização dos componentes.
 * **React Native Reanimated** — animações performáticas.
 
-## 📚 Conteúdos estudados
+## Conteúdos estudados
 
 ### 1. Criação da Tab Bar personalizada
 
@@ -165,7 +165,7 @@ Para implementar esse efeito, serão explorados:
 
 O efeito líquido completo ainda é uma etapa de desenvolvimento deste estudo.
 
-## 🧠 Aprendizados
+## Aprendizados
 
 Com este projeto, o objetivo é desenvolver conhecimentos sobre:
 
@@ -177,13 +177,13 @@ Com este projeto, o objetivo é desenvolver conhecimentos sobre:
 * Animações com React Native Reanimated.
 * Organização e reutilização de componentes em TypeScript.
 
-## 📌 Status do projeto
+## Status do projeto
 
 **Em desenvolvimento.**
 
 O projeto faz parte dos meus estudos de React Native, com foco em interfaces personalizadas e animações.
 
-## 👨‍💻 Autor
+## Autor
 
 **Vingren de Souza Dias**
 
